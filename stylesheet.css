@@ -56,7 +56,6 @@ h3 {
 
 /* ---------------- Entête, pied, images ---------------- */
 #entete, #pied {
-    text-align: center;
     padding: 10px;
 }
 
